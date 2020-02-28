@@ -4,9 +4,9 @@ Base24 scheme for Atom One Light
 
 |baseNN|Colour|
 |---|---|
-|base00|![#](https://placehold.it/25/fafafa/000000?text=+)
-|base01|![#](https://placehold.it/25/f0f0f1/000000?text=+)
-|base02|![#](https://placehold.it/25/e5e5e6/000000?text=+)
+|base00|![#](https://placehold.it/25/e7e7e9/000000?text=+)
+|base01|![#](https://placehold.it/25/dfdfe1/000000?text=+)
+|base02|![#](https://placehold.it/25/cacace/000000?text=+)
 |base03|![#](https://placehold.it/25/a0a1a7/000000?text=+)
 |base04|![#](https://placehold.it/25/696c77/000000?text=+)
 |base05|![#](https://placehold.it/25/383a42/000000?text=+)
@@ -20,8 +20,8 @@ Base24 scheme for Atom One Light
 |base0D|![#](https://placehold.it/25/4078f2/000000?text=+)
 |base0E|![#](https://placehold.it/25/a626a4/000000?text=+)
 |base0F|![#](https://placehold.it/25/986801/000000?text=+)
-|base10|![#](https://placehold.it/25/fcfcfc/000000?text=+)
-|base11|![#](https://placehold.it/25/ffffff/000000?text=+)
+|base10|![#](https://placehold.it/25/f0f0f1/000000?text=+)
+|base11|![#](https://placehold.it/25/fafafa/000000?text=+)
 |base12|![#](https://placehold.it/25/ec2258/000000?text=+)
 |base13|![#](https://placehold.it/25/f4a701/000000?text=+)
 |base14|![#](https://placehold.it/25/6db76c/000000?text=+)
